@@ -36,5 +36,9 @@ Eu iniciei o localStack pelo **docker** :whale2:
    ```
    aws --endpoint-url=http://localhost:4566 sqs list-queues
    ```
+![Fila](https://github.com/alsoares086/Solutis_Formacao/blob/main/Sqs/assets/fila.png)
 ## Resultados
 Conforme o esperado, o código resultou no envio e no recebimento da mensagem com sucesso. Consegui compreender a gestão de mensagens e como , em prática, o serviço da AWS funciona, mesmo eu utilizando o localStack e rodando tudo localmente.
+
+![Mensage Enviada](https://github.com/alsoares086/Solutis_Formacao/blob/main/Sqs/assets/mensagem_enviada.png)
+![Mensagem Recebida](https://github.com/alsoares086/Solutis_Formacao/blob/main/Sqs/assets/mensagem_recebida.png)
