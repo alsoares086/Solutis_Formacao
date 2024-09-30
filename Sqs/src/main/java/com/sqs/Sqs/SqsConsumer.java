@@ -18,7 +18,7 @@ public class SqsConsumer {
         // Cria o cliente SQS
         SqsClient sqsClient = SqsClient.builder()
                 .region(Region.SA_EAST_1)
-                .endpointOverride(URI.create("http://localhost:4566"))
+                .endpointOverride(URI.create("http://localhost:4566"))// Criando o endpoint ja que estou simulando o serviço localmente
                 .build();
 
         // Recebe e processa mensagens
