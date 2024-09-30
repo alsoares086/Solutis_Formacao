@@ -13,7 +13,7 @@ Será fundamental instalar no computador as seguintes ferramentas:
 ## Instalando e Iniciando o LocalStack
 
 ### Instalação
-Você pode instalar o LocalStack de duas formas:
+É possível instalar o LocalStack de duas formas:
 
 1. Acessando o site oficial do LocalStack para instruções completas de instalação [aqui](https://docs.localstack.cloud/getting-started/installation/).
    
