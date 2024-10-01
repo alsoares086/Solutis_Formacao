@@ -14,5 +14,5 @@ O código pode ser encontrado no [aqui](https://docs.spring.io/spring-security/r
 Eu baixei o código e rodei utilizando o Visual Studio Code, após a conexão com o localhost ser estabelecida, tentei fazer login, porém sem exito.
 
 
-(https://github.com/alsoares086/Solutis_Formacao/blob/main/Sqs/assets/mensagem_recebida.png](https://github.com/alsoares086/Solutis_Formacao/blob/main/Spring-security/assets/Screenshot%202024-10-01%20151040.png)
-(https://github.com/alsoares086/Solutis_Formacao/blob/main/Sqs/assets/mensagem_recebida.png](https://github.com/alsoares086/Solutis_Formacao/blob/main/Spring-security/assets/Screenshot%202024-10-01%20150717.png)
+!(https://github.com/alsoares086/Solutis_Formacao/blob/main/Sqs/assets/mensagem_recebida.png](https://github.com/alsoares086/Solutis_Formacao/blob/main/Spring-security/assets/Screenshot%202024-10-01%20151040.png)
+!(https://github.com/alsoares086/Solutis_Formacao/blob/main/Sqs/assets/mensagem_recebida.png](https://github.com/alsoares086/Solutis_Formacao/blob/main/Spring-security/assets/Screenshot%202024-10-01%20150717.png)
