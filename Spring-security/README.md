@@ -9,7 +9,7 @@ Será fundamental instalar no computador as seguintes ferramentas:
 - Java Development Kit (Eu utilizei a versão 17)
 
 ### Rodando o código
-O código pode ser encontrado no ![aqui](https://docs.spring.io/spring-security/reference/servlet/getting-started.html)
+O código pode ser encontrado no [aqui](https://docs.spring.io/spring-security/reference/servlet/getting-started.html)
 
 Eu baixei o código e rodei utilizando o Visual Studio Code, após a conexão com o localhost ser estabelecida, tentei fazer login, porém sem exito.
 
