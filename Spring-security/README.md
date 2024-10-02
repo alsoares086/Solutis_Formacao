@@ -11,8 +11,8 @@ Será fundamental instalar no computador as seguintes ferramentas:
 ### Rodando o código
 O código pode ser encontrado no [aqui](https://docs.spring.io/spring-security/reference/servlet/getting-started.html)
 
-Eu baixei o código e rodei utilizando o Visual Studio Code, após a conexão com o localhost ser estabelecida, tentei fazer login, porém sem exito.
+Eu baixei o código e rodei utilizando o Visual Studio Code, após a conexão com o localhost ser estabelecida, tentei fazer login.
 
 
-(https://github.com/alsoares086/Solutis_Formacao/blob/main/Spring-security/assets/Screenshot%202024-10-01%20151040.png)
-(https://github.com/alsoares086/Solutis_Formacao/blob/main/Spring-security/assets/Screenshot%202024-10-01%20150717.png)
+![login](https://github.com/alsoares086/Solutis_Formacao/blob/main/Spring-security/assets/Screenshot%202024-10-01%20151040.png)
+![login1](https://github.com/alsoares086/Solutis_Formacao/blob/main/Spring-security/assets/Screenshot%202024-10-01%20150717.png)
